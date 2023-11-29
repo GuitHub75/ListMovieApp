@@ -33,4 +33,5 @@ Con este  pequeño proyecto se pone en practicas las siguiente tecnologias.
 
     //circular progress bar
     implementation("com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0")
-![MiPerfil](https://github.com/GuitHub75/ListMovieApp/assets/101473187/be644d46-c85e-47c8-a289-5d34e2367f56)
+![MOVIE](https://github.com/GuitHub75/ListMovieApp/assets/101473187/c638d9df-b6d7-40b9-bf3b-d29af09e46ae)
+
